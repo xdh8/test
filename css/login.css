@@ -1,0 +1,264 @@
+.box1{
+	width:100%;
+	height:90px;
+	background:white;
+}
+.box1>a{
+	display:block;
+	margin-left:80px;
+	margin-top:20px;
+	color:red;
+	font-size:30px;
+}
+.box2{
+	width:1349px;
+	height:600px;
+	background:rgb(190,20,10);
+	position:relative;
+	margin-bottom:50px;
+}
+.box21{
+	width:1190px;
+	height:600px;
+	margin-left:80px;
+	background:url(../img/login/bg.jpg);
+	background-size:1190px 600px;
+}
+.box21>a{
+	display:block;
+	width:640px;
+	height:440px;
+	margin-left:70px;
+	margin-right:80px;
+}
+.box22{
+	width:325px;
+	height:405px;
+	position:absolute;
+	top:90px;
+	right:150px;
+	background:white;
+	padding-left:25px;
+}
+.box221{
+	margin-top:40px;
+	font-size:16px;
+}
+.box222{
+	width:300px;
+	height:40px;
+	margin-top:25px;
+	border:1px solid #ccc;
+	position: relative;
+	overflow:hidden;
+}
+.box2221{
+	display:inline-block;
+	width:40px;
+	height:40px;
+	background:#ddd;
+}
+.box2222{
+	display:inline-block;
+	width:260px;
+	height:40px;
+	line-height:38px;
+	border:none;
+	font-size:14px;
+	margin-left:-4px;
+	vertical-align: top;
+	box-sizing:border-box;
+	outline:none;
+}
+.zh>button{
+	width:15px;
+	height:15px;
+	line-height:7px;
+	border:1px solid #999;
+	border-radius:50%;
+	background:#999;
+	position:absolute;
+	top:13px;
+	right:5px;
+	color:white;
+	text-align:center;
+	display:none;
+}
+.box2231{
+	position:absolute;
+	display:inline-block;
+	left:-260px;
+	cursor:pointer;
+	background: #eee;
+}
+.box22311{
+	float:left;
+	width:260px;
+	height:40px;
+	background:rgb(120,190,60);
+	position:relative;
+	z-index:1;
+}
+.box22312{
+	float:left;
+	width:40px;
+	height:40px;
+	line-height: 40px;
+	text-align: center;
+	background:white;
+	border:1px solid #ddd;
+	box-sizing:border-box;
+	color:#999;
+	position: relative;
+	z-index: 3;
+}
+.box22313{
+	float:left;
+	width:260px;
+	height:40px;
+	opacity: 0;
+	position: relative;
+	z-index:3;
+}
+.box2232{
+	display:inline-block;
+	width:300px;
+	height:40px;
+	line-height:40px;
+	text-align: center;
+	font-size:12px;
+	color:#666;
+	background:rgba(0,0,0,0);
+	position: relative;
+	z-index:2;
+}
+.box224{
+	color:white;
+	background: red;
+	line-height: 40px;
+	text-align:center;
+	font-size: 15px;
+	border:1px solid red;
+	border-radius:3px;
+	cursor: pointer;
+}
+.box225{
+	width:300px;
+	height:40px;
+	margin-top:25px;
+}
+.box225>a{
+	float:right;
+	margin-right:20px;
+}
+.box226{
+	width:55px;
+	height:55px;
+	position:absolute;
+	right:6px;
+	top:9px;
+}
+.box226>img{
+	cursor:pointer;
+}
+.box2261{
+	width:30px;
+	height:30px;
+	position:absolute;
+	top:27px;
+	left:0px;
+}
+.box2262{
+	width:140px;
+	height:30px;
+	line-height:30px;
+	background:rgb(254,250,230);
+	border:1px solid rgb(220,150,30);
+	color: rgb(220,150,30);
+	text-align:center;
+	position:absolute;
+	top:0px;
+	left:-140px;
+}
+.box2262>div{
+	width:0;
+	height:0;
+	border-left:7px solid rgb(220,150,30);
+	border-top:8px solid transparent;
+	border-bottom:8px solid transparent;
+	position:absolute;
+	left:140px;
+	top:7px;
+}
+.box2262>span{
+	width:0;
+	height:0;
+	border-left:6px solid rgb(254,250,230);
+	border-top:7px solid transparent;
+	border-bottom:7px solid transparent;
+	position:absolute;
+	left:140px;
+	top:8px;
+}
+.box23{
+	width:325px;
+	height:405px;
+	position:absolute;
+	top:90px;
+	right:150px;
+	background:white;
+	padding-left:25px;
+	display:none;
+	z-index:5;
+}
+.ewmfm{
+	width:42px;
+	height:42px;
+	background: url(../img/login/ewmfm.png);
+	position: absolute;
+	right:6px;
+	top:9px;
+	cursor: pointer;
+}
+.box25a{
+	width:100%;
+	height:220px;
+	position:relative;
+	top:-5px;
+}
+.box25a2{
+	width:1230px;
+	height:30px;
+	margin-left:80px;
+	margin-top:10px;
+}
+.box25a2>a{
+	display:block;
+	float:left;
+	height:30px;
+	line-height:30px;
+	color:black;
+	margin:auto 8px auto 0;
+}
+.box25a3{
+	margin-left:80px;
+	width:1230px;
+	height:50px;
+}
+.box25a3>div{
+	height:25px;
+	line-height:25px;
+	display:block;
+	float:left;
+	color:#aaa;
+	margin-right:70px;
+}
+.box25a4{
+	height:25px;
+	line-height:25px;
+	color:#777;
+	margin-left:80px;
+	position: relative;
+	left:-273px;
+	top:25px;
+}
